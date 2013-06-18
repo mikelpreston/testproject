@@ -7,6 +7,11 @@ import java.util.Iterator;
 import java.util.List;
 
 
+/**
+ * Random test class for arrays
+ * @author MCMikey
+ *
+ */
 public class Eggs {
 	public static void main(String[] args) {
 		int[][] basket1 = new int[2][];
